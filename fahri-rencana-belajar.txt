@@ -1,0 +1,4 @@
+Rencana Belajar Fahri :
+- Belajar React JS
+- Belajar React Native
+- Belajar Flex Box
