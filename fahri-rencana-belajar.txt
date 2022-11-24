@@ -1,4 +1,6 @@
 Rencana Belajar Fahri :
 - Belajar React JS
+  - Belajar react dari jasacript vanilla
+  - Get good at front end dev
 - Belajar React Native
 - Belajar Flex Box
