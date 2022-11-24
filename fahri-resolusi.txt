@@ -6,3 +6,4 @@ FAHRI RESOLUSI :
 - Belajar Bootstrap 5, Sebagai framework dari CSS
 - Membuat project dengan Bootstrap 5
 - Belajar GIT & GITHUB
+- Belajar Vanilla Javascript
